@@ -1,2 +1,2 @@
 # Distributed-Computing-with-Spark-
-This assignment is from the Distributed Computing with Spark course on Coursera. 
+This is the final project from the Distributed Computing with Spark course on Coursera. 
